@@ -216,11 +216,11 @@ The system will utilize free Google Workspace APIs to enhance functionality.
 
 ## Backend
 
-* FastAPI (Python)
+* Node.js, Express.js
 
 ## Database
 
-* PostgreSQL
+* MongoDB
 
 ## Authentication
 
